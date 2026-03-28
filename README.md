@@ -71,5 +71,3 @@ More importantly, I realized that building consistently, even on small projects 
 ## Author
 
 Cesar Maldonado
-
-Cesar Maldonado
