@@ -81,3 +81,36 @@ ul{
     margin-left: 1rem;
 }
 
+#buttonWrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+a {
+    color: white;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+button{
+    background-color: white; /* Green background */
+    border: 2px solid lightgray; /* Remove default border */
+    cursor: pointer;
+    border-radius: 1rem;
+    text-align: center;
+    transition: transform 0.3s;
+}
+
+button:hover{
+    transform: translateY(-.5rem);
+}
+
+#youTubeButton{
+    padding: .5rem 2rem;
+}
+
+#gitHubButton{
+    padding: 0.01rem 1.7rem;
+}
